@@ -1,0 +1,8 @@
+s1 = {2, 4, 6, 8, 10}
+s2 = {3, 4, 5, 6, 7, 8}  # this is union 
+
+s = s1.union(s2)
+print(s)
+
+s1.update(s2)  # s2 ki vo value ad hogi jo s1 me nahi hai 
+print(s1,s2)
