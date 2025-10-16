@@ -1,0 +1,4 @@
+manish yelne,19,A
+om yelne ,16,A
+nihar rathor,20,B
+Lalit yelne,23,B
