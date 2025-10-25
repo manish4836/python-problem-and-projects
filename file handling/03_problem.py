@@ -55,5 +55,6 @@ def main():
         except ValueError:
             print("Nuber enter karo, Text Nahi!")
 
-if __name__ == "__main__":
-    main()
+if __name__ == "__main__":     #  Yeh check karta hai ki file DIRECTLY run ho rahi hai ya IMPORT ho rahi hai
+
+    main()       # koi specific functions check karne ke liye 
